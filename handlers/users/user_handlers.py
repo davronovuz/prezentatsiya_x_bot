@@ -1008,8 +1008,8 @@ async def balance_topup_amount(message: types.Message, state: FSMContext):
 
         await state.update_data(amount=amount)
 
-        CARD_NUMBER = "9860080147802732"
-        CARD_HOLDER = "G'olibjon  Davronov"
+        CARD_NUMBER = "9860 1601 3495 0726"
+        CARD_HOLDER = "Fattoyev Abdufattoh"
 
         payment_text = f"""
 💳 <b>TO'LOV MA'LUMOTLARI</b>
@@ -1167,14 +1167,14 @@ async def help_handler(message: types.Message):
 4. Admin tasdiqlaydi (5-30 daqiqa)
 
 <b>🎁 Bepul prezentatsiya:</b>
-Har bir yangi user 2 ta bepul prezentatsiya oladi!
+Har bir yangi user 1 ta bepul prezentatsiya oladi!
 
 <b>🤖 Professional AI:</b>
 - AI content yaratadi
 - Professional dizayn
 - PPTX format
 
-❓ Savol: @sam_ecobench
+❓ Savol: @@FATTOYEVABDUFATTOH
 """
 
     await message.answer(help_text, parse_mode='HTML')

@@ -3,7 +3,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: aislidebot
+    container_name: prezentatsiya_x_bot
     environment:
       - BOT_TOKEN=${BOT_TOKEN}
     volumes:
