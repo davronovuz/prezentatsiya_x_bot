@@ -9,70 +9,70 @@ THEMES = [
         "name": "Chisel",
         "emoji": "🤍",
         "description": "Oq, minimalist, professional. Biznes va korporativ prezentatsiyalar uchun ideal.",
-        "file_id": "AgACAgIAAxkBAAMraTRI4Ghm6V8rEssPFLcvWUvt6wkAAjsQaxspq6BJDWZWDDqWSDEBAAMCAANtAAM2BA"
+        "file_id": "AgACAgIAAxkBAAKXbmk0WZ-6kjEbLwfjDqI-9PSmxMAaAAJ-EGsbzqGhSeFY-yoQFlzQAQADAgADbQADNgQ"
     },
     {
         "id": "coal",  # ✅ TO'G'RI (Vortex o'rniga)
         "name": "Coal",
         "emoji": "🖤",
         "description": "Qora, elegant, zamonaviy. Premium va tech loyihalar uchun.",
-        "file_id": "AgACAgIAAxkBAAMtaTRJBnDVhq53KFNjTdVkAU9_VNwAAkEQaxspq6BJwMvXZH_YYdEBAAMCAANtAAM2BA"
+        "file_id": "AgACAgIAAxkBAAKXzWk0WclCQCnCuTpCQUVrIcJkwMGaAAKBEGsbzqGhSdLGB0P9TU2LAQADAgADbQADNgQ"
     },
     {
         "id": "blues",  # ✅ TO'G'RI (Stratos o'rniga)
         "name": "Blues",
         "emoji": "🔵",
         "description": "To'q ko'k, ishonchli, korporativ. Rasmiy taqdimotlar uchun.",
-        "file_id": "AgACAgIAAxkBAAMvaTRJQOpZaVMot5I3cJhEZ5UZDU0AAlMQaxspq6BJik9fBnaAoS8BAAMCAANtAAM2BA"
+        "file_id": "AgACAgIAAxkBAAKYNmk0WfF5sUgnBkz9UolZ5yZeLu8mAAKDEGsbzqGhSfx12B4l1kqqAQADAgADbQADNgQ"
     },
     {
         "id": "elysia",  # ✅ TO'G'RI (Prism o'rniga)
         "name": "Elysia",
         "emoji": "💗",
         "description": "Och pushti, ijodiy, yengil. Marketing va ijodiy loyihalar uchun.",
-        "file_id": "AgACAgIAAxkBAAMxaTRJeqpXcMEU_YC9ds-m-y3g3X8AAl0Qaxspq6BJOjyZcN4hCsgBAAMCAANtAAM2BA"
+        "file_id": "AgACAgIAAxkBAAKYRmk0Whmxdm2alcaNQFm9tgTxIsAyAAKFEGsbzqGhSR4KYtOEwRPNAQADAgADbQADNgQ"
     },
     {
         "id": "breeze",  # ✅ TO'G'RI (Seafoam o'rniga)
         "name": "Breeze",
         "emoji": "🌊",
         "description": "Moviy-yashil, tinch, tabiiy. Ekologiya va sog'liqni saqlash uchun.",
-        "file_id": "AgACAgIAAxkBAAMzaTRJlhlaltnIBu1c9ZIThrUFJAYAAmUQaxspq6BJVwj3jaEPzEEBAAMCAANtAAM2BA"
+        "file_id": "AgACAgIAAxkBAAKYUGk0WjdzsPq0fUzNXYDcLqUO-oBDAAKIEGsbzqGhSWsiyRQBlsMUAQADAgADbQADNgQ"
     },
     {
         "id": "aurora",  # ✅ TO'G'RI (Night Sky o'rniga)
         "name": "Aurora",
         "emoji": "🌙",
         "description": "To'q binafsha, sirli, premium. Startup va innovatsion loyihalar uchun.",
-        "file_id": "AgACAgIAAxkBAAM1aTRJtE6NBcr7s2rNYBJSwMJ0EcAAAmYQaxspq6BJ-oZ-5dJQK0YBAAMCAANtAAM2BA"
+        "file_id": "AgACAgIAAxkBAAKYX2k0Wl6VaSyQykACJ9mrF8SWJZkMAAKLEGsbzqGhSVCIyapaNnpfAQADAgADbQADNgQ"
     },
     {
         "id": "coral-glow",  # ✅ TO'G'RI
         "name": "Coral Glow",
         "emoji": "🌸",
         "description": "Pushti gradient, iliq, do'stona. Lifestyle va ijtimoiy loyihalar uchun.",
-        "file_id": "AgACAgIAAxkBAAM3aTRJ3Iw_1NiWZqTw-98BialEXZUAAmcQaxspq6BJQQTSfk_KFLgBAAMCAANtAAM2BA"
+        "file_id": "AgACAgIAAxkBAAKYb2k0WotTBV46gnJwPBI1BMg-PdVbAAKMEGsbzqGhSYtdze2k92WhAQADAgADbQADNgQ"
     },
     {
         "id": "gamma",  # ✅ TO'G'RI (Spectrum o'rniga)
         "name": "Gamma",
         "emoji": "🌈",
         "description": "Rang-barang, quvnoq, ijodiy. Ta'lim va bolalar loyihalari uchun.",
-        "file_id": "AgACAgIAAxkBAAM5aTRKDcCdAAEDK9w8m_fdMeOtpuWDAAJrEGsbKaugSf3tiOhOzaUqAQADAgADbQADNgQ"
+        "file_id": "AgACAgIAAxkBAAKY4mk0Wq5HdVo2seUAARpl1UdI2JGVUgACjRBrG86hoUniONcZN6A4CwEAAwIAA20AAzYE"
     },
     {
         "id": "creme",  # ✅ TO'G'RI
         "name": "Creme",
         "emoji": "☕",
         "description": "Krem, iliq, klassik. Restoran, qahvaxona va lifestyle uchun.",
-        "file_id": "AgACAgIAAxkBAAM7aTRKMIjWt9kZdQZ3Mv5CJbjSqyEAAmwQaxspq6BJbolZUAAB5KyoAQADAgADbQADNgQ"
+        "file_id": "AgACAgIAAxkBAAKY_Wk0W0DzWeNq_vYgUDQqe8L7qr8xAAKTEGsbzqGhSa9TUbdjFzQwAQADAgADbQADNgQ"
     },
     {
         "id": "gamma-dark",  # ✅ TO'G'RI (Nebulae o'rniga)
         "name": "Gamma Dark",
         "emoji": "✨",
         "description": "Kosmik, qorong'i, effektli. Tech va futuristik loyihalar uchun.",
-        "file_id": "AgACAgIAAxkBAAM9aTRKTxWMt6sS6WG80LTZaDKwTtgAAm0Qaxspq6BJg_MhOzl-J5ABAAMCAANtAAM2BA"
+        "file_id": "AgACAgIAAxkBAAKY-2k0Wx7eZX0o8oRqPwYi0GsdsISbAAKREGsbzqGhSR1XydQDLyI2AQADAgADbQADNgQ"
     }
 ]
 
