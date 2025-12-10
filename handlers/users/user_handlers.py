@@ -1187,7 +1187,7 @@ Har bir yangi user 2 ta bepul prezentatsiya oladi!
 - Professional dizayn
 - PPTX format
 
-❓ Savol: @sam_ecobench
+❓ Savol: @FATTOYEVABDUFATTOH
 """
 
     await message.answer(help_text, parse_mode='HTML')
