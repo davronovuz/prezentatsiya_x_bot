@@ -75,7 +75,6 @@ def main_menu_keyboard():
     keyboard = ReplyKeyboardMarkup(
         keyboard=[
             [
-                KeyboardButton("🎯 Pitch Deck"),
                 KeyboardButton("📊 Prezentatsiya"),
             ],
             [
